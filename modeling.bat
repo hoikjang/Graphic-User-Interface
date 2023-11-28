@@ -1,0 +1,1 @@
+python modeling.py %baseYM% %gnr% %phase%>> ./log/modeling.log 2>&1

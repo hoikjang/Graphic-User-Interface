@@ -1,0 +1,1 @@
+python featureinput.py %baseYM% %gnr% %phase%>> ./log/featureinput.log 2>&1

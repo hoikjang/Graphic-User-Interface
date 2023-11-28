@@ -1,0 +1,1 @@
+python martbuild.py %baseYM% %gnr% %phase%>> ./log/martbuild.log 2>&1

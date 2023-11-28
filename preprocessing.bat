@@ -1,0 +1,1 @@
+python preprocessing.py %baseYM% %gnr% %phase%>> ./log/preprocessing.log 2>&1

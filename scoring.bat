@@ -1,0 +1,1 @@
+python scoring.py %baseYM% %gnr% %phase%>> ./log/scoring.log 2>&1
